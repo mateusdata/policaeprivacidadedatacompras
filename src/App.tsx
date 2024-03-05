@@ -25,7 +25,7 @@ const App = () => {
       </p>
       <h2>Contate-Nos</h2>
       <p>
-        Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco pelo e-mail: datacompras@example.com.
+        Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco pelo e-mail: mateuspele2015@gmail.com
       </p>
     </div>
   );
