@@ -5,19 +5,19 @@ const App = () => {
     <div style={{padding:40}}>
       <h1>Política de Privacidade</h1>
       <p>
-        Esta Política de Privacidade descreve como o aplicativo Data Compras ("nós", "nosso" ou "aplicativo") coleta, usa e compartilha informações pessoais dos usuários ("você", "seu" ou "usuário") do aplicativo.
+        Esta Política de Privacidade descreve como o aplicativo Lista de mercado ("nós", "nosso" ou "aplicativo") lida com as informações dos usuários ("você", "seu" ou "usuário").
       </p>
       <h2>Informações Coletadas</h2>
       <p>
-        O aplicativo Data Compras não coleta informações pessoais dos usuários. O aplicativo é projetado para funcionar localmente no dispositivo do usuário e não requer uma conexão com a internet. Todas as informações inseridas pelo usuário, como itens de compra, são armazenadas localmente no dispositivo do usuário e não são compartilhadas com terceiros.
+        O aplicativo Lista de mercado não coleta nenhuma informação pessoal dos usuários. Todas as informações inseridas pelo usuário, como listas de mercado, são armazenadas localmente no dispositivo do usuário e não são compartilhadas com terceiros.
       </p>
       <h2>Uso das Informações</h2>
       <p>
-        As informações fornecidas pelo usuário são usadas exclusivamente para gerenciar as listas de compras do usuário dentro do aplicativo. Essas informações não são compartilhadas com terceiros nem usadas para fins de marketing.
+        As informações fornecidas pelo usuário são usadas exclusivamente para gerenciar as listas de mercado do usuário dentro do aplicativo. Essas informações não são compartilhadas com terceiros nem usadas para fins de marketing.
       </p>
       <h2>Segurança</h2>
       <p>
-        O aplicativo Data Compras emprega medidas de segurança adequadas para proteger as informações do usuário. Todas as informações são armazenadas localmente no dispositivo do usuário e não são transmitidas pela internet.
+        O aplicativo Lista de mercado emprega medidas de segurança adequadas para proteger as informações do usuário. Todas as informações são armazenadas localmente no dispositivo do usuário e não são transmitidas pela internet.
       </p>
       <h2>Alterações nesta Política de Privacidade</h2>
       <p>
